@@ -36,7 +36,7 @@
             <artifactId>json-schema-validator</artifactId>
             <version>4.4.0</version>
         </dependency>
-        
+
     </dependencies>
 
 </project>
